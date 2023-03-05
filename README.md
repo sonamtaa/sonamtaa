@@ -30,7 +30,7 @@
 <a href="https://www.instagram.com/sonam_taa"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/tashist515"><img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?style=for-the-badge&logo=Twitter&logoColor=blue" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sonamtaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank" /></a>
-<a href="https://dev.to/daviducolo"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank" /></a> 
+<a href="https://dev.to/no_head"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank" /></a> 
 </p>
 
 
