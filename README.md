@@ -1,6 +1,6 @@
 ## Greetings 👋, I am Sonam Tashi.
 
-### Toiling as a Developer at SELISE Bhutan
+### 👨‍💻 Working as a Developer at SELISE Bhutan
 
 ### 💫 A Bit More About Myself
 
@@ -11,8 +11,8 @@
 - 🖥 Software Developer
 - 👨‍🏫 Data Explorer
 - 🏠 Bhutan
+- 💪 ABC
  
-
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/ruby-3670A0?style=for-the-badge&logo=ruby&logoColor=ffdd54" style="margin-bottom: 4px; height=30px">
@@ -25,6 +25,14 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
+| Rank 💪 | Languages |
+|-----:|-----------|
+|     1| Ruby      |
+|     2| Python    |
+|     3| SQL       |
+|     4| Javascript|
+|     5| SQL       |
+
 ## 👥 Talk With Me
 <p>
 <a href="https://www.instagram.com/sonam_taa"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
@@ -32,7 +40,6 @@
 <a href="https://www.linkedin.com/in/sonamtaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank" /></a>
 <a href="https://dev.to/no_head"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank" /></a> 
 </p>
-
 
 ### 📊 Github Stats
 <a href="https://github.com/sonamtaa">
