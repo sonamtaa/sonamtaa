@@ -1,11 +1,12 @@
 # Greetings 👋, I am Sonam Tashi.
 
-## 👨‍💻 Working as a Engineer at SELISE Bhutan
+## 👨‍💻 Working as a Software Developer at SELISE Bhutan
 
 ### 💫 A Bit More About Myself
 
-### Interest:
-- ❤️ I am passionate about ***Software Engineering, Learning, Ruby, Python and Javascript***
+### Interest':'
+
+- ❤️ I am passionate about ***Software Engineering, Ruby, Python and Javascript***
 - 🤩 Improving my coding skills to become a better at what I do 🤩
 - 💻 New Tech, New World
 - 🖥 Software Developer
