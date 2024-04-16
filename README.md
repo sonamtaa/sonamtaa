@@ -1,12 +1,12 @@
 # Greetings 👋, I am Sonam Tashi
 
-## 👨‍💻 Working as a Software Developer at SELISE Bhutan
+## 👨‍💻 Working as a Software Developer
 
 ### 💫 A Bit More About Myself
 
 ### Interest
 
-- ❤️ I am passionate about ***Software Engineering, Ruby, Python and Javascript***
+- ❤️ I am passionate about ***Software Engineering, Ruby, Javascript and Python***
 - 🤩 Improving my coding skills to become a better at what I do 🤩
 - 💻 New Tech, New World
 - 🖥 Software Developer
@@ -30,10 +30,8 @@
 | Rank 💪 | Languages  |
 |-----:|------------|
 |     1| Ruby       |
-|     2| Python     |
-|     3| SQL        |
-|     4| Javascript |
-|     5| NoSQL      |
+|     2| Javascript |
+|     3| Python     |
 
 ## 👥 Talk with Me
 
