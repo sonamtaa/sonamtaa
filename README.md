@@ -1,16 +1,16 @@
 # Greetings 👋, I am Sonam Tashi
 
-## 👨‍💻 Working as a Software Developer
+## 👨‍💻 Working as a Backend Developer
 
 ### 💫 A Bit More About Myself
 
-### Interest
+### Interest ❤️❤️❤️
 
-- ❤️ I am passionate about ***Software Engineering, Ruby, Javascript and Python***
+- ❤️ I am passionate about **Software Engineering, Ruby, Javascript and Blockchain Technology**
 - 🤩 Improving my coding skills to become a better at what I do 🤩
-- 💻 New Tech, New World
-- 🖥 Software Developer
-- 👨‍🏫 Data Explorer
+- 💻 Tech World, New World
+- 🖥 Backend
+- 🖥 Blockchain
 - 🏠 Bhutan
 - 💪 ABC
 
@@ -28,10 +28,10 @@
 </p>
 
 | Rank 💪 | Languages  |
-|-----:|------------|
-|     1| Ruby       |
-|     2| Javascript |
-|     3| Python     |
+| ------: | ---------- |
+|       1 | Ruby       |
+|       2 | Javascript |
+|       3 | Python     |
 
 ## 👥 Talk with Me
 
@@ -54,3 +54,6 @@
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=sonamtaa">
 </p>
+
+<p> Fight one to know one </p>
+ - 🥊
